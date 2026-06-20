@@ -1,4 +1,4 @@
-# cvds-admission-niloufarnaseri.
+# cvds-admission-niloufarnaseri
 
 This repository contains my submission for the intake of the Master Computer
 Vision & Data Science (2026–2027) at NHL Stenden.
