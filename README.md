@@ -15,12 +15,11 @@ Part 2a — Personal code example
 A 2D image convolution implemented from scratch in Python with NumPy, used for
 edge detection (Sobel) and Gaussian blur. The script is organised into small,
 single-purpose functions (pad_with_zeros, convolve, gaussian_kernel) and
-follows the PEP 8 style guide. It uses no built-in convolution routine, the
+follows the PEP 8 style guide. It uses no built-in convolution routine — the
 sliding-window operation is written by hand to show the underlying algorithm,
 which is also the basis of convolutional neural networks.
-
 Running the file produces a three-panel figure (original image, detected edges,
-blurred image), saved as convolution_demo.png.
+blurred image).
 
 
 
