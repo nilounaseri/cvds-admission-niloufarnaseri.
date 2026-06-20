@@ -22,7 +22,7 @@ which is also the basis of convolutional neural networks.
 Running the file produces a three-panel figure (original image, detected edges,
 blurred image), saved as convolution_demo.png.
 
-bashpython convolution.py
+
 
 Part 2b — Solutions to the admission assignments
 
