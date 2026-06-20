@@ -10,7 +10,7 @@ form. Both files are in the root of this repository:
 
 Part 2a — Personal code example
 
-File: (convolution.py)
+[convolution.py](convolution.py)
 
 A 2D image convolution implemented from scratch in Python with NumPy, used for
 edge detection (Sobel) and Gaussian blur. The script is organised into small,
@@ -26,7 +26,7 @@ blurred image), saved as convolution_demo.png.
 
 Part 2b — Solutions to the admission assignments
 
-File: (debugging-correction.ipynb)
+[debugging-correction.ipynb](debugging-correction.ipynb)
 
 My solutions to the four debugging exercises from the admission assignments. The
 notebook is saved in an executed state, so every cell shows its output. For
